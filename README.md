@@ -1,0 +1,8 @@
+Mini Project: Banking Automation
+The Banking Automation System is a Python-based application designed to automate fundamental banking activities through a simple and user-friendly interface. The project focuses on replicating real-world banking operations in a digital environment, such as creating new accounts, depositing and withdrawing money, checking account balances, and maintaining transaction records.
+
+The system uses file handling to store user data, including account numbers, names, and balances, in text files. This ensures data is saved permanently and can be retrieved or updated whenever required, even after the program is closed. Functions and conditional statements are extensively used to handle different operations, validate user inputs, and prevent invalid transactions such as overdrafts. Loops are used to allow multiple transactions in a single session without restarting the program.
+
+The objective of this project is to understand how core banking functions can be automated using programming concepts. It demonstrates how backend logic is structured to handle operations securely and efficiently. This project improved skills in problem-solving, logical thinking, modular programming, and data management.
+
+In the future, this system can be extended with additional features such as PIN-based authentication, interest calculation, transaction history, database integration, and even graphical user interfaces (GUI) for a more interactive experience. Overall, this project serves as a strong foundation for understanding how real-world financial systems can be built and managed using Python.
