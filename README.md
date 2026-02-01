@@ -1,8 +1,31 @@
-Mini Project: Banking Automation
-The Banking Automation System is a Python-based application designed to automate fundamental banking activities through a simple and user-friendly interface. The project focuses on replicating real-world banking operations in a digital environment, such as creating new accounts, depositing and withdrawing money, checking account balances, and maintaining transaction records.
+# Banking Automation System (Python)
 
-The system uses file handling to store user data, including account numbers, names, and balances, in text files. This ensures data is saved permanently and can be retrieved or updated whenever required, even after the program is closed. Functions and conditional statements are extensively used to handle different operations, validate user inputs, and prevent invalid transactions such as overdrafts. Loops are used to allow multiple transactions in a single session without restarting the program.
+## Overview
+A console-based banking automation system built using Python.
+The project allows basic banking operations such as account creation,
+deposit, withdrawal, balance inquiry, and data persistence using file handling.
 
-The objective of this project is to understand how core banking functions can be automated using programming concepts. It demonstrates how backend logic is structured to handle operations securely and efficiently. This project improved skills in problem-solving, logical thinking, modular programming, and data management.
+## Features
+- Create bank accounts
+- Deposit and withdraw money
+- Check account balance
+- View all accounts
+- File-based data storage
 
-In the future, this system can be extended with additional features such as PIN-based authentication, interest calculation, transaction history, database integration, and even graphical user interfaces (GUI) for a more interactive experience. Overall, this project serves as a strong foundation for understanding how real-world financial systems can be built and managed using Python.
+## Tech Stack
+- Python 3
+- File Handling
+
+## How to Run
+1. Clone the repository
+2. Navigate to src directory
+3. Run:
+   python  main.py
+
+## Project Type
+Academic / Learning Project
+
+## Future Improvements
+- PIN-based authentication
+- Transaction history
+- Database integration
